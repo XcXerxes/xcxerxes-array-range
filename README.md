@@ -17,7 +17,7 @@ console.log(range(4).map(item => item * item))
 // -> [0, 1, 4, 9]
 
 console.log(range(-2, 1))
-// -> [-2, -2, 0]
+// -> [-2, -1, 0]
 ```
 
 ## License

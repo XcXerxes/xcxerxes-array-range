@@ -1,0 +1,27 @@
+{
+  "name": "xcxerxes-array-range",
+  "version": "0.0.1",
+  "description": "array range",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XcXerxes/xcxerxes-array-range.git"
+  },
+  "keywords": [
+    "[node",
+    "array",
+    "range]"
+  ],
+  "author": "xcxerxes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XcXerxes/xcxerxes-array-range/issues"
+  },
+  "homepage": "https://github.com/XcXerxes/xcxerxes-array-range#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
